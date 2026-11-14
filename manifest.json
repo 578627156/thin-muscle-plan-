@@ -1,0 +1,10 @@
+{
+  "name": "一年薄肌计划",
+  "short_name": "薄肌计划",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#17251f",
+  "lang": "zh-CN",
+  "description": "个人减脂增肌饮食、体重与训练日志"
+}
